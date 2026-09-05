@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pe_Page_003_Image_0002.png
 source_page: Foreword
@@ -16,3 +18,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 П. Р. МЕНОН  
 В отставке: судья Главного суда, Кочин, и  
 бывший президент Академии литературы Кералы (Keral Sahitya Academy).
+
+_Dr. Mārcis Gasūns_

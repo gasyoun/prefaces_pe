@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pe_Page_006_Image_0002.png
 source_page: Preface, 2
@@ -15,3 +17,5 @@ Kottayam
 22.2.1975
 
 VETTAM MANI
+
+_Dr. Mārcis Gasūns_

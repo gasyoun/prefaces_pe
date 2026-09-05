@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pe_Page_001_Image_0002.png
 source_page: Title
@@ -14,3 +16,5 @@ VETTAM MANI
 
 MOTILAL BANARSIDASS
 Delhi :: Patna :: Varanasi
+
+_Dr. Mārcis Gasūns_

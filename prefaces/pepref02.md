@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pe_Page_003_Image_0002.png
 source_page: Foreword
@@ -14,3 +16,5 @@ Shri Mani has already earned well-deserved reputation as a teacher, especially i
 P.R. MENON  
 Retired Judge, Chief Court, Cochin and  
 Ex-President Keral Sahitya Academy.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pe_Page_001_Image_0002.png
 source_page: Title
@@ -16,3 +18,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 MOTILAL BANARSIDASS
 Дели :: Патна :: Варанаси
+
+_Dr. Mārcis Gasūns_
